@@ -1,0 +1,20 @@
+﻿Build started 12/9/2011 9:46:41 PM.
+     1>Project "C:\Documents and Settings\Owner\My Documents\Andre Projects\2011\Fight_1.0\Fight_1.0\Fight_1.0.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Fight_1.0.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\Fight_1.0.unsuccessfulbuild".
+         Touching "Debug\Fight_1.0.lastbuildstate".
+     1>Done Building Project "C:\Documents and Settings\Owner\My Documents\Andre Projects\2011\Fight_1.0\Fight_1.0\Fight_1.0.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.48
